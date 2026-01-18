@@ -14,7 +14,7 @@
 | Amazon Corretto | https://downloads.corretto.aws/#/downloads | 
 | Azul Zulu (JavaFX) | https://www.azul.com/downloads/?package=jdk#zulu |
 | BellSoft Liberica (JavaFX) | https://bell-sw.com/pages/downloads/ |
-| Eclipse Temurin(AdoptOpenJDK HotSpot) | https://adoptium.net/zh-CN/temurin/releases?version=25&os=any&arch=any |
+| Eclipse Temurin (AdoptOpenJDK HotSpot) | https://adoptium.net/zh-CN/temurin/releases?version=25&os=any&arch=any |
 | GraalVM Community | https://www.graalvm.org/downloads/ |
 | IBM Semeru (AdoptOpenJDK OpenJ9) | https://developer.ibm.com/languages/java/semeru-runtimes/downloads/ |
 | JetBrainsRuntime (JCEF) | https://github.com/JetBrains/JetBrainsRuntime/releases |
