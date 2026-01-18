@@ -19,9 +19,9 @@
 | IBM Semeru (AdoptOpenJDK OpenJ9) | https://developer.ibm.com/languages/java/semeru-runtimes/downloads/ |
 | JetBrainsRuntime (JCEF) | https://github.com/JetBrains/JetBrainsRuntime/releases |
 | Microsoft OpenJDK | https://learn.microsoft.com/zh-cn/java/openjdk/download |
+| Oracle GraalVM | https://www.oracle.com/downloads/graalvm-downloads.html |
 | Oracle JDK | https://www.oracle.com/apac/java/technologies/downloads/ |
 | Oracle OpenJDK | https://jdk.java.net/ |
-| Oracle GraalVM | https://www.oracle.com/downloads/graalvm-downloads.html |
 | SAP SapMachine | https://sapmachine.io/ |
 
 # JavaScript/TypeScript
