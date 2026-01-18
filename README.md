@@ -2,7 +2,7 @@
 | 模块 | 地址 | 
 |-|-|
 | web | https://github.com/quarkusio/quarkus |
-| orm | https://github.com/spring-projects/spring-data-jpa | 
+| orm | https://github.com/hibernate/hibernate-orm | 
 | tools | https://github.com/google/guava https://commons.apache.org |
 | json | https://github.com/FasterXML/jackson |
 | log | https://github.com/qos-ch/slf4j |
